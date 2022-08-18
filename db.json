@@ -226,12 +226,64 @@
     ],
     "caseDocumentDeliveries": [
       {
+        "caseDocumentDeliveryAttempts": [
+          {
+            "caseDocumentDeliveryId": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
+            "caseDocumentDeliveryType": {
+              "caseDocumentTypeId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+              "deliveryType": {
+                "code": "TEST",
+                "id": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
+                "linkedItems": [],
+                "name": "Testing testing",
+                "seqNo": 27
+              },
+              "id": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
+              "seqNo": 27
+            },
+            "caseDocumentId": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
+            "deliveredAt": "2022-08-18T10:07:41.320Z",
+            "deliveryInfo": "Testing info",
+            "forwardedAt": "2022-08-18T10:07:41.320Z",
+            "forwardedBy": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
+            "forwardedByName": "Mike Doe",
+            "id": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
+            "objectStatus": "CURRENT"
+          }
+        ],
         "id": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
         "caseDocumentId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
         "personId": "69a31369-f74d-404d-a221-ba7d30bf3455",
         "personText": "Subaru Auto AS 12197746"
       },
       {
+        "caseDocumentDeliveryAttempts": [
+          {
+            "caseDocumentDeliveryId": "748d8779-8984-4e2d-b70e-9951b3e3db49",
+            "caseDocumentDeliveryType": {
+              "caseDocumentTypeId": "string",
+              "deliveryType": {
+                "code": "TEST",
+                "id": "748d8779-8984-4e2d-b70e-9951b3e3db49",
+                "linkedItems": [
+                  null
+                ],
+                "name": "Poop",
+                "seqNo": 28
+              },
+              "id": "748d8779-8984-4e2d-b70e-9951b3e3db49",
+              "seqNo": 28
+            },
+            "caseDocumentId": "748d8779-8984-4e2d-b70e-9951b3e3db49",
+            "deliveredAt": "2022-08-18T10:07:41.320Z",
+            "deliveryInfo": "Another test",
+            "forwardedAt": "2022-08-18T10:07:41.320Z",
+            "forwardedBy": "748d8779-8984-4e2d-b70e-9951b3e3db49",
+            "forwardedByName": "Michale Jordan",
+            "id": "748d8779-8984-4e2d-b70e-9951b3e3db49",
+            "objectStatus": "CURRENT"
+          }
+        ],
         "id": "748d8779-8984-4e2d-b70e-9951b3e3db49",
         "caseDocumentId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
         "personId": "667b6ba4-6c2d-4e5f-a899-e79b2e4bf7b8",
