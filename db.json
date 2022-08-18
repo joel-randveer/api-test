@@ -37,7 +37,7 @@
       "id": "CASE_DOCUMENT_STATUS__COMPLETED",
       "code": "REVOKED",
       "name": "Valmis",
-      "seqNo": 2,
+      "seqNo": 2
     },
     "title": "Document for api test",
     "createdAt": "2022-07-28T08:51:11.142669",
@@ -52,7 +52,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -72,7 +72,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -92,7 +92,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -112,7 +112,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -132,7 +132,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -152,7 +152,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -172,7 +172,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -192,7 +192,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -212,7 +212,7 @@
           "id": "OBJECT_TYPE__CASE_DOCUMENT",
           "code": "CASE_DOCUMENT",
           "name": "Menetlusdokument",
-          "seqNo": 27,
+          "seqNo": 27
         },
         "contextType": null,
         "context": "undefined",
@@ -238,50 +238,6 @@
         "personText": "Juss Jonnipunn 61202084253"
       }
     ],
-    "objectStatus": "CURRENT"
-  },
-  {
-    "permissions": [
-      {
-        "dataObjectId": "4e1970ba-0318-4373-b3d8-e7527b055bbd",
-        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
-        "dataObjectPermissions": [
-          "DELETE_CASE_DOCUMENT_FILE",
-          "DOWNLOAD_CASE_DOCUMENT_FILE"
-        ]
-      },
-      {
-        "dataObjectId": "0580390f-194f-4984-af7e-e8d5d3f115c6",
-        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT",
-        "dataObjectPermissions": [
-          "COMPLETE_CASE_DOCUMENT",
-          "ADD_CASE_DOCUMENT_DELIVERY",
-          "VIEW_CASE_DOCUMENT",
-          "VIEW_CASE_DOCUMENT_DELIVERIES",
-          "DELETE_CASE_DOCUMENT",
-          "ADD_CASE_DOCUMENT_FILE",
-          "CHANGE_CASE_DOCUMENT",
-          "VIEW_CASE_DOCUMENT_ACTIVITIES"
-        ]
-      }
-    ],
-    "id": "0580390f-194f-4984-af7e-e8d5d3f115c6",
-    "caseDocumentType": {
-      "id": "INVESTIGATION_REPORT",
-      "name": "Uurimiskokkuvõte",
-      "description": "See on Tööinspektsiooni läbiviidud uurimise kokkuvõte"
-    },
-    "status": {
-      "id": "CASE_DOCUMENT_STATUS__PENDING",
-      "code": "COMPLETED",
-      "name": "Ettevalmistamisel",
-      "seqNo": 1,
-    },
-    "title": "Document 2 for api test",
-    "createdAt": "2022-07-28T08:51:11.142669",
-    "completedAt": "",
-    "fileReferences": [],
-    "caseDocumentDeliveries": "undefined",
     "objectStatus": "CURRENT"
   }
 ]
