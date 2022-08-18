@@ -1,0 +1,376 @@
+{"documents": [
+  {
+    "permissions": [
+      {
+        "dataObjectId": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
+        "dataObjectPermissions": [
+          "DOWNLOAD_CASE_DOCUMENT_FILE"
+        ]
+      },
+      {
+        "dataObjectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT",
+        "dataObjectPermissions": [
+          "ADD_CASE_DOCUMENT_DELIVERY",
+          "VIEW_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_DELIVERIES",
+          "REVOKE_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_ACTIVITIES"
+        ]
+      },
+      {
+        "dataObjectId": "986e5b10-f1f1-4b9d-81cb-799d09939b4c",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
+        "dataObjectPermissions": [
+          "DOWNLOAD_CASE_DOCUMENT_FILE"
+        ]
+      }
+    ],
+    "id": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+    "caseDocumentType": {
+      "id": "INVESTIGATION_CLOSES",
+      "name": "Uurimise lõpetamise otsus",
+      "description": "See on Tööinspektsiooni läbiviidava uurimise lõpetamise otsus"
+    },
+    "status": {
+      "id": "CASE_DOCUMENT_STATUS__COMPLETED",
+      "code": "REVOKED",
+      "name": "Valmis",
+      "seqNo": 2,
+    },
+    "title": "Document for api test",
+    "createdAt": "2022-07-28T08:51:11.142669",
+    "completedAt": "",
+    "fileReferences": [
+      {
+        "id": "986e5b10-f1f1-4b9d-81cb-799d09939b4c",
+        "fileId": "9ee96f41-8df7-49bc-ace0-ed5164c12442",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "xfaiiil",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail1",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail2",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail3",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail4",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail5",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail6",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail7",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      },
+      {
+        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
+        "fileId": "70902569-d84e-4358-b224-4bc413606343",
+        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personText": "",
+        "objectType": {
+          "id": "OBJECT_TYPE__CASE_DOCUMENT",
+          "code": "CASE_DOCUMENT",
+          "name": "Menetlusdokument",
+          "seqNo": 27,
+        },
+        "contextType": null,
+        "context": "undefined",
+        "creatorType": null,
+        "fileName": "testfail8",
+        "fileStatus": "Status.ACTIVE",
+        "scanStatus": "ScanStatus.CLEAN",
+        "objectStatus": "Status.CURRENT",
+        "createdAt": "2022-07-28T08:51:11.142669"
+      }
+    ],
+    "caseDocumentDeliveries": [
+      {
+        "id": "6838fd76-77ef-4360-b2b8-6b3895bc9a59",
+        "caseDocumentId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personId": "69a31369-f74d-404d-a221-ba7d30bf3455",
+        "personText": "Subaru Auto AS 12197746"
+      },
+      {
+        "id": "748d8779-8984-4e2d-b70e-9951b3e3db49",
+        "caseDocumentId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+        "personId": "667b6ba4-6c2d-4e5f-a899-e79b2e4bf7b8",
+        "personText": "Juss Jonnipunn 61202084253"
+      }
+    ],
+    "objectStatus": "CURRENT"
+  },
+  {
+    "permissions": [
+      {
+        "dataObjectId": "4e1970ba-0318-4373-b3d8-e7527b055bbd",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
+        "dataObjectPermissions": [
+          "DELETE_CASE_DOCUMENT_FILE",
+          "DOWNLOAD_CASE_DOCUMENT_FILE"
+        ]
+      },
+      {
+        "dataObjectId": "0580390f-194f-4984-af7e-e8d5d3f115c6",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT",
+        "dataObjectPermissions": [
+          "COMPLETE_CASE_DOCUMENT",
+          "ADD_CASE_DOCUMENT_DELIVERY",
+          "VIEW_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_DELIVERIES",
+          "DELETE_CASE_DOCUMENT",
+          "ADD_CASE_DOCUMENT_FILE",
+          "CHANGE_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_ACTIVITIES"
+        ]
+      }
+    ],
+    "id": "0580390f-194f-4984-af7e-e8d5d3f115c6",
+    "caseDocumentType": {
+      "id": "INVESTIGATION_REPORT",
+      "name": "Uurimiskokkuvõte",
+      "description": "See on Tööinspektsiooni läbiviidud uurimise kokkuvõte"
+    },
+    "status": {
+      "id": "CASE_DOCUMENT_STATUS__PENDING",
+      "code": "COMPLETED",
+      "name": "Ettevalmistamisel",
+      "seqNo": 1,
+    },
+    "title": "Document 2 for api test",
+    "createdAt": "2022-07-28T08:51:11.142669",
+    "completedAt": "",
+    "fileReferences": [],
+    "caseDocumentDeliveries": "undefined",
+    "objectStatus": "CURRENT"
+  },
+  {
+    "permissions": [
+      {
+        "dataObjectId": "4e1970ba-0318-4373-b3d8-e7527b055bbd",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
+        "dataObjectPermissions": [
+          "DELETE_CASE_DOCUMENT_FILE",
+          "DOWNLOAD_CASE_DOCUMENT_FILE"
+        ]
+      },
+      {
+        "dataObjectId": "0580390f-194f-4984-af7e-e8d5d3f115c6",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT",
+        "dataObjectPermissions": [
+          "COMPLETE_CASE_DOCUMENT",
+          "ADD_CASE_DOCUMENT_DELIVERY",
+          "VIEW_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_DELIVERIES",
+          "DELETE_CASE_DOCUMENT",
+          "ADD_CASE_DOCUMENT_FILE",
+          "CHANGE_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_ACTIVITIES"
+        ]
+      }
+    ],
+    "id": "0580390f-194f-4984-af7e-e8d5d3f115c6",
+    "caseDocumentType": {
+      "id": "INVESTIGATION_REPORT",
+      "name": "Uurimiskokkuvõte",
+      "description": "See on Tööinspektsiooni läbiviidud uurimise kokkuvõte"
+    },
+    "status": {
+      "id": "CASE_DOCUMENT_STATUS__PENDING",
+      "code": "PENDING",
+      "name": "Ettevalmistamisel",
+      "seqNo": 1,
+    },
+    "title": "Document 3 for api test",
+    "createdAt": "2022-08-28T08:51:11.142669",
+    "completedAt": "",
+    "fileReferences": [],
+    "caseDocumentDeliveries": "undefined",
+    "objectStatus": "CURRENT"
+  },
+  {
+    "permissions": [
+      {
+        "dataObjectId": "4e1970ba-0318-4373-b3d8-e7527b055bbd",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
+        "dataObjectPermissions": [
+          "DELETE_CASE_DOCUMENT_FILE",
+          "DOWNLOAD_CASE_DOCUMENT_FILE"
+        ]
+      },
+      {
+        "dataObjectId": "0580390f-194f-4984-af7e-e8d5d3f115c6",
+        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT",
+        "dataObjectPermissions": [
+          "COMPLETE_CASE_DOCUMENT",
+          "ADD_CASE_DOCUMENT_DELIVERY",
+          "VIEW_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_DELIVERIES",
+          "DELETE_CASE_DOCUMENT",
+          "ADD_CASE_DOCUMENT_FILE",
+          "CHANGE_CASE_DOCUMENT",
+          "VIEW_CASE_DOCUMENT_ACTIVITIES"
+        ]
+      }
+    ],
+    "id": "0580390f-194f-4984-af7e-e8d5d3f115c6",
+    "caseDocumentType": {
+      "id": "INVESTIGATION_REPORT",
+      "name": "Uurimiskokkuvõte",
+      "description": "See on Tööinspektsiooni läbiviidud uurimise kokkuvõte"
+    },
+    "status": {
+      "id": "CASE_DOCUMENT_STATUS__PENDING",
+      "code": "PENDING",
+      "name": "Ettevalmistamisel",
+      "seqNo": 1,
+    },
+    "title": "Document 4 for api test",
+    "createdAt": "2022-07-28T08:51:11.142669",
+    "completedAt": "",
+    "fileReferences": [],
+    "caseDocumentDeliveries": "undefined",
+    "objectStatus": "CURRENT"
+  }
+]
+}
