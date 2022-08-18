@@ -1,31 +1,6 @@
 {"documents": [
   {
     "permissions": [
-      {
-        "dataObjectId": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
-        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
-        "dataObjectPermissions": [
-          "DOWNLOAD_CASE_DOCUMENT_FILE"
-        ]
-      },
-      {
-        "dataObjectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
-        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT",
-        "dataObjectPermissions": [
-          "ADD_CASE_DOCUMENT_DELIVERY",
-          "VIEW_CASE_DOCUMENT",
-          "VIEW_CASE_DOCUMENT_DELIVERIES",
-          "REVOKE_CASE_DOCUMENT",
-          "VIEW_CASE_DOCUMENT_ACTIVITIES"
-        ]
-      },
-      {
-        "dataObjectId": "986e5b10-f1f1-4b9d-81cb-799d09939b4c",
-        "dataObjectType": "PermissionDataObjectType.CASE_DOCUMENT_FILE",
-        "dataObjectPermissions": [
-          "DOWNLOAD_CASE_DOCUMENT_FILE"
-        ]
-      }
     ],
     "id": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
     "caseDocumentType": {
