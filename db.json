@@ -77,26 +77,6 @@
         "contextType": null,
         "context": "undefined",
         "creatorType": null,
-        "fileName": "testfail1",
-        "fileStatus": "Status.ACTIVE",
-        "scanStatus": "ScanStatus.CLEAN",
-        "objectStatus": "Status.CURRENT",
-        "createdAt": "2022-07-28T08:51:11.142669"
-      },
-      {
-        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
-        "fileId": "70902569-d84e-4358-b224-4bc413606343",
-        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
-        "personText": "",
-        "objectType": {
-          "id": "OBJECT_TYPE__CASE_DOCUMENT",
-          "code": "CASE_DOCUMENT",
-          "name": "Menetlusdokument",
-          "seqNo": 27
-        },
-        "contextType": null,
-        "context": "undefined",
-        "creatorType": null,
         "fileName": "testfail2",
         "fileStatus": "Status.ACTIVE",
         "scanStatus": "ScanStatus.CLEAN",
@@ -118,66 +98,6 @@
         "context": "undefined",
         "creatorType": null,
         "fileName": "testfail3",
-        "fileStatus": "Status.ACTIVE",
-        "scanStatus": "ScanStatus.CLEAN",
-        "objectStatus": "Status.CURRENT",
-        "createdAt": "2022-07-28T08:51:11.142669"
-      },
-      {
-        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
-        "fileId": "70902569-d84e-4358-b224-4bc413606343",
-        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
-        "personText": "",
-        "objectType": {
-          "id": "OBJECT_TYPE__CASE_DOCUMENT",
-          "code": "CASE_DOCUMENT",
-          "name": "Menetlusdokument",
-          "seqNo": 27
-        },
-        "contextType": null,
-        "context": "undefined",
-        "creatorType": null,
-        "fileName": "testfail4",
-        "fileStatus": "Status.ACTIVE",
-        "scanStatus": "ScanStatus.CLEAN",
-        "objectStatus": "Status.CURRENT",
-        "createdAt": "2022-07-28T08:51:11.142669"
-      },
-      {
-        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
-        "fileId": "70902569-d84e-4358-b224-4bc413606343",
-        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
-        "personText": "",
-        "objectType": {
-          "id": "OBJECT_TYPE__CASE_DOCUMENT",
-          "code": "CASE_DOCUMENT",
-          "name": "Menetlusdokument",
-          "seqNo": 27
-        },
-        "contextType": null,
-        "context": "undefined",
-        "creatorType": null,
-        "fileName": "testfail5",
-        "fileStatus": "Status.ACTIVE",
-        "scanStatus": "ScanStatus.CLEAN",
-        "objectStatus": "Status.CURRENT",
-        "createdAt": "2022-07-28T08:51:11.142669"
-      },
-      {
-        "id": "d3171ffa-4f3b-49c6-904f-924ba7038e66",
-        "fileId": "70902569-d84e-4358-b224-4bc413606343",
-        "objectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
-        "personText": "",
-        "objectType": {
-          "id": "OBJECT_TYPE__CASE_DOCUMENT",
-          "code": "CASE_DOCUMENT",
-          "name": "Menetlusdokument",
-          "seqNo": 27
-        },
-        "contextType": null,
-        "context": "undefined",
-        "creatorType": null,
-        "fileName": "testfail6",
         "fileStatus": "Status.ACTIVE",
         "scanStatus": "ScanStatus.CLEAN",
         "objectStatus": "Status.CURRENT",
