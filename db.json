@@ -273,11 +273,11 @@
     },
     "status": {
       "id": "CASE_DOCUMENT_STATUS__PENDING",
-      "code": "PENDING",
+      "code": "COMPLETED",
       "name": "Ettevalmistamisel",
       "seqNo": 1,
     },
-    "title": "Document 4 for api test",
+    "title": "Document 2 for api test",
     "createdAt": "2022-07-28T08:51:11.142669",
     "completedAt": "",
     "fileReferences": [],
