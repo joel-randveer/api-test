@@ -1,6 +1,17 @@
 {"documents": [
   {
     "permissions": [
+              {
+          "dataObjectId": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
+          "dataObjectType": PermissionDataObjectType.CASE_DOCUMENT,
+          "dataObjectPermissions": [
+            "ADD_CASE_DOCUMENT_DELIVERY",
+            "VIEW_CASE_DOCUMENT",
+            "VIEW_CASE_DOCUMENT_DELIVERIES",
+            "REVOKE_CASE_DOCUMENT",
+            "VIEW_CASE_DOCUMENT_ACTIVITIES"
+          ]
+        },
     ],
     "id": "aed72690-68b4-4f80-bee5-e18e1f9e7763",
     "caseDocumentType": {
